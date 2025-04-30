@@ -35,7 +35,7 @@
 |`V -`|vowel final|
 </td></tr> <table>
 
-# Phonemes
+## Phonemes
 <table>
 <tr><th>Consonants</th><th>Vowels</th></tr>
 <tr><td>
