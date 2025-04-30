@@ -10,13 +10,10 @@
 * **Recorded pitch**: A3<br>
 * **Recommended resampler**: Moresampler, TIPS<br>
 
-## Alias types<br>
-|alias|type|
-|--|--|
-|`- V`|initial vowel|
-|`V`|sustained vowel|
-|`V V`|vowel transition|
-|`V -`|vowel final|
+## Alias Types<br>
+<table>
+<tr><th>CVs, VCs & CCs</th><th>Vs & VVs</th></tr>
+<tr><td>
 
 |alias|type|
 |--|--|
@@ -28,36 +25,21 @@
 |`C C`|consonant transition|
 |`C -`|consonant final|
 
-# Phonemes
-## Vowels
-| phoneme | word | trasncription |
-| ------------- | ------------- | ------------- |
-|`I`|"bit"|`bIt`|
-|`E`|"bet"|`bEt`|
-|`{`|"bat"|`b{t`|
-|`A`|"bot"|`bAt`|
-|`O`|"call"|`kOl`|
-|`V`|"cut"|`kVt`|
-|`U`|"cook"|`kUk`|
-|`@`|"about"|`@.baUt`|
-|`i`|"ease"|`iz`|
-|`eI`|"raise"|`reIz`|
-|`aI`|"rise"|`raIz`|
-|`OI`|"noise"|`nOIz`|
-|`u`|"loose"|`lus`|
-|`aU`|"round"|`raUnd`|
-|`oU`|"nose"|`noUz`|
-|`@l`|"bold"|`b@ld`|
-|`@r`|"bird"|`b@rd`|
-|`Ir`|"fears"|`fIrz`|
-|`Er`|"stairs"|`stErz`|
-|`Ar`|"stars"|`stArz`|
-|`Or`|"cores"|`kOrz`|
-|`Ur`|"cures"|`kjUrz`|
-|`I~`|"king"|`kI~N`|
-|`{~`|"bam" "ban" "bang"|`b{~m` `b{~n` `b{~m`|
+</td><td>
+  
+|alias|type|
+|--|--|
+|`- V`|initial vowel|
+|`V`|sustained vowel|
+|`V V`|vowel transition|
+|`V -`|vowel final|
+</td></tr> <table>
 
-## Consonants
+# Phonemes
+<table>
+<tr><th>Consonants</th><th>Vowels</th></tr>
+<tr><td>
+
 | phoneme | word | trasncription |
 | ------------- | ------------- | ------------- |
 |`p`|"pin"|`pIn`|
@@ -87,3 +69,34 @@
 |`l`|"ball" "black"|`bOl` `bl{k`|
 |`4`|"bottle"|`bA.4@l`|
 |`'`|"button"|`bV.'@n`|
+
+</td><td>
+
+| phoneme | word | trasncription |
+| ------------- | ------------- | ------------- |
+|`I`|"bit"|`bIt`|
+|`E`|"bet"|`bEt`|
+|`{`|"bat"|`b{t`|
+|`A`|"bot"|`bAt`|
+|`O`|"call"|`kOl`|
+|`V`|"cut"|`kVt`|
+|`U`|"cook"|`kUk`|
+|`@`|"about"|`@.baUt`|
+|`i`|"ease"|`iz`|
+|`eI`|"raise"|`reIz`|
+|`aI`|"rise"|`raIz`|
+|`OI`|"noise"|`nOIz`|
+|`u`|"loose"|`lus`|
+|`aU`|"round"|`raUnd`|
+|`oU`|"nose"|`noUz`|
+|`@l`|"bold"|`b@ld`|
+|`@r`|"bird"|`b@rd`|
+|`Ir`|"fears"|`fIrz`|
+|`Er`|"stairs"|`stErz`|
+|`Ar`|"stars"|`stArz`|
+|`Or`|"cores"|`kOrz`|
+|`Ur`|"cures"|`kjUrz`|
+|`I~`|"king"|`kI~N`|
+|`{~`|"bam" "ban" "bang"|`b{~m` `b{~n` `b{~N`|
+
+</td></tr> </table>
