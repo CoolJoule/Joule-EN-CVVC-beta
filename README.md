@@ -40,7 +40,7 @@
 <tr><th>Consonants</th><th>Vowels</th></tr>
 <tr><td>
 
-| phoneme | word | trasncription |
+| phoneme | word | transcription |
 | ------------- | ------------- | ------------- |
 |`p`|"pin"|`pIn`|
 |`b`|"bin"|`bIn`|
@@ -72,7 +72,7 @@
 
 </td><td>
 
-| phoneme | word | trasncription |
+| phoneme | word | transcription |
 | ------------- | ------------- | ------------- |
 |`I`|"bit"|`bIt`|
 |`E`|"bet"|`bEt`|
