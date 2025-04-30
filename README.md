@@ -1,7 +1,7 @@
 # Joule English X-SAMPA CVVC β
-This voicebank was designed to work with the EN X-SAMPA phonemizer for OpenUtau, but it can also be used in Classic UTAU.<br>
-For general information about phonemes, please see below or check out Salem Wasteland's English CVVC documentation.<br>
-Also note that the [l]/[5] phonemes are aliased like Vocaloid SAMPA [l0]/[l] for easier use of the phonemizer and dictionary.<br>
+**This voicebank was designed to work with the EN X-SAMPA phonemizer for OpenUtau, but it can also be used in Classic UTAU.<br>
+**For general information about phonemes, please see below or check out Salem Wasteland's English CVVC documentation.<br>
+**Note that the [l]/[5] phonemes are aliased like Vocaloid SAMPA [l0]/[l] for easier use of the phonemizer and dictionary.<br>
 
 # General Voicebank Info
 **Gender:** male<br>
