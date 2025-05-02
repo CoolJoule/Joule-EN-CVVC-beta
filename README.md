@@ -1,4 +1,5 @@
 # Joule English X-SAMPA CVVC β
+[Download](https://drive.google.com/file/d/1ClH1XZkWUf3iFehahYcTRWYfiyJe-TB3/view?usp=drive_link)
 ## Disclaimer
 * This voicebank was designed to work with the `EN X-SAMPA` phonemizer for **OpenUtau**, but it can also be used in Classic UTAU.<br>
 * For general information about phonemes, please see below, or check out **Salem's English CVVC** documentation for additional info.<br>
