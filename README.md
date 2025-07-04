@@ -6,9 +6,8 @@
 * Note that the [l]/[5] phonemes are aliased like Vocaloid SAMPA [l0]/[l] for easier use of the phonemizer and dictionary.<br>
 
 # General Voicebank Info
-* **Gender**: male<br>
 * **Range**: tenor (D3~F#4)<br>
-* **Timbre**: light, clear, youthful<br>
+* **Timbre**: bright, clear, youthful<br>
 * **Recorded pitch**: A3<br>
 * **Recommended resampler**: Moresampler, TIPS<br>
 
@@ -44,61 +43,61 @@
 
 | phoneme | word | transcription |
 | ------------- | ------------- | ------------- |
-|`p`|"pin"|`pIn`|
-|`b`|"bin"|`bIn`|
-|`t`|"tip"|`tIp`|
-|`d`|"dip"|`dIp`|
-|`k`|"cot"|`kAt`|
-|`g`|"got"|`gAt`|
-|`tS`|"church"|`tS@rtS`|
-|`dZ`|"judge"|`dZVdZ`|
-|`f`|"fan"|`f{~n`|
-|`v`|"van"|`v{~n`|
-|`T`|"thigh"|`TaI`|
-|`D`|"thy"|`DaI`|
-|`s`|"sink"|`sI~Nk`|
-|`z`|"zinc"|`zI~Nk`|
-|`S`|"Hatian"|`heI.S@n`|
-|`Z`|"Asian"|`eI.Z@n`|
-|`h`|"hit"|`hIt`|
-|`m`|"mock"|`mAk`|
-|`n`|"knock"|`nAk`|
-|`N`|"wrong"|`rON`|
-|`r`|"right"|`raIt`|
-|`l0`|"light"|`l0aIt`|
-|`w`|"way"|`weI`|
-|`j`|"yay"|`jeI`|
-|`l`|"ball" "black"|`bOl` `bl{k`|
-|`4`|"bottle"|`bA.4@l`|
-|`'`|"button"|`bV.'@n`|
+|`p`|"pin"|`p I n`|
+|`b`|"bin"|`b I n`|
+|`t`|"tip"|`t I p`|
+|`d`|"dip"|`d I p`|
+|`k`|"cot"|`k A t`|
+|`g`|"got"|`g A t`|
+|`tS`|"church"|`tS @r tS`|
+|`dZ`|"judge"|`dZ V dZ`|
+|`f`|"fan"|`f {~ n`|
+|`v`|"van"|`v {~ n`|
+|`T`|"thigh"|`T aI`|
+|`D`|"thy"|`D aI`|
+|`s`|"sink"|`s I~ N k`|
+|`z`|"zinc"|`z I~ N k`|
+|`S`|"mission"|`m I S I n`|
+|`Z`|"vision"|`v I Z I n`|
+|`h`|"hit"|`h I t`|
+|`m`|"mock"|`m A k`|
+|`n`|"knock"|`n A k`|
+|`N`|"wrong"|`r O N`|
+|`r`|"right"|`r aI t`|
+|`l0`|"light"|`l0 aI t`|
+|`w`|"way"|`w eI`|
+|`j`|"yay"|`j eI`|
+|`l`|"ball" "black"|`b O l` `b l { k`|
+|`4`|"bottle"|`b A 4 @l`|
+|`'`|"button"|`b V t ' I n`|
 
 </td><td>
 
 | phoneme | word | transcription |
 | ------------- | ------------- | ------------- |
-|`I`|"bit"|`bIt`|
-|`E`|"bet"|`bEt`|
-|`{`|"bat"|`b{t`|
-|`A`|"bot"|`bAt`|
-|`O`|"call"|`kOl`|
-|`V`|"cut"|`kVt`|
-|`U`|"cook"|`kUk`|
-|`@`|"about"|`@.baUt`|
-|`i`|"ease"|`iz`|
-|`eI`|"raise"|`reIz`|
-|`aI`|"rise"|`raIz`|
-|`OI`|"noise"|`nOIz`|
-|`u`|"loose"|`lus`|
-|`aU`|"round"|`raUnd`|
-|`oU`|"nose"|`noUz`|
-|`@l`|"bold"|`b@ld`|
-|`@r`|"bird"|`b@rd`|
-|`Ir`|"fears"|`fIrz`|
-|`Er`|"stairs"|`stErz`|
-|`Ar`|"stars"|`stArz`|
-|`Or`|"cores"|`kOrz`|
-|`Ur`|"cures"|`kjUrz`|
-|`I~`|"king"|`kI~N`|
-|`{~`|"bam" "ban" "bang"|`b{~m` `b{~n` `b{~N`|
+|`I`|"bit"|`b I t`|
+|`E`|"bet"|`b E t`|
+|`{`|"bat"|`b { t`|
+|`A`|"bot"|`b A t`|
+|`O`|"call"|`k O l`|
+|`V`|"cut"|`k V t`|
+|`U`|"cook"|`k U k`|
+|`@`|"about"|`@ b aU t`|
+|`i`|"ease"|`i z`|
+|`eI`|"raise"|`r eI z`|
+|`aI`|"rise"|`r aI z`|
+|`OI`|"noise"|`n OI z`|
+|`u`|"loose"|`l u s`|
+|`aU`|"round"|`r aU n d`|
+|`oU`|"nose"|`n oU z`|
+|`@l`|"bold"|`b @l d`|
+|`@r`|"bird"|`b @r d`|
+|`Ir`|"fears"|`f Ir z`|
+|`Er`|"stairs"|`s t Er z`|
+|`Ar`|"stars"|`s t Ar z`|
+|`Or`|"cores"|`k Or z`|
+|`Ur`|"cures"|`k j Ur z`|
+|`I~`|"king"|`k I~ N`|
+|`{~`|"bam" "ban" "bang"|`b {~ m` `b {~ n` `b {~ N`|
 
 </td></tr> </table>
