@@ -69,7 +69,7 @@
 |`j`|"yay"|`j eI`|
 |`l`|"ball" "black"|`b O l` `b l { k`|
 |`4`|"bottle"|`b A 4 @l`|
-|`'`|"button"|`b V t ' I n`|
+|`'`|"button"|`b V ' I n`|
 
 </td><td>
 
