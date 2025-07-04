@@ -6,10 +6,9 @@
 * Note that the [l]/[5] phonemes are aliased like Vocaloid SAMPA [l0]/[l] for easier use of the phonemizer and dictionary.<br>
 
 # General Voicebank Info
-* **Range**: tenor (D3~F#4)<br>
-* **Timbre**: bright, clear, youthful<br>
-* **Recorded pitch**: A3<br>
-* **Recommended resampler**: Moresampler, TIPS<br>
+* **Logical range**: D3～F#4<br>
+* **Toneset**: A3<br>
+* **Recommended resampler(s)**: Moresampler, TIPS<br>
 
 ## Alias Types<br>
 <table>
