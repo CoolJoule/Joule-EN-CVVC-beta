@@ -12,28 +12,32 @@
 
 ## Alias Types<br>
 <table>
-<tr><th>CVs, VCs & CCs</th><th>Vs & VVs</th></tr>
+<tr><th>CVs & VCs</th><th>Cs & CCs</th><th>Vs & VVs</th></tr>
 <tr><td>
 
 |alias|type|
 |--|--|
-|`- C`|initial consonant|
-|`CC`, `CCC`|medial cluster|
 |`CV`|medial CV|
 |`_CV`|post-cluster medial CV|
 |`V C`|transitional VC|
-|`C C`|consonant transition|
-|`C -`|consonant final|
 
 </td><td>
   
+|alias|type|
+|--|--|
+|`- C`|initial consonant|
+|`CC`, `CCC`|medial cluster|
+|`C C`|consonant transition|
+|`C -`|consonant final|
+</td><td>
+
 |alias|type|
 |--|--|
 |`- V`|initial vowel|
 |`V`|sustained vowel|
 |`V V`|vowel transition|
 |`V -`|vowel final|
-</td></tr> <table>
+</td></ts></tr> <table>
 
 ## Phonemes
 <table>
