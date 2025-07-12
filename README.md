@@ -1,8 +1,8 @@
 # Joule English X-SAMPA CVVC β
 [Download](https://github.com/CoolJoule/Joule-EN-CVVC-beta/releases/download/2025.05.02/Joule-EN-CVVC-beta.zip) | [Mirror](https://drive.google.com/file/d/1ClH1XZkWUf3iFehahYcTRWYfiyJe-TB3/view?usp=sharing)
 ## Usage Notes
-* This voicebank was designed to work with the `EN X-SAMPA` phonemizer for **OpenUtau**, but remains compatible with Classic UTAU.<br>
-* For general information about phonemes, please see below, or check out **Salem's English CVVC** documentation for additional info.<br>
+* This voicebank was designed to work with the `EN X-SAMPA` phonemizer for **[OpenUtau](https://www.openutau.com/)**, but remains compatible with Classic UTAU.<br>
+* For general information about phonemes, please see below, or check out **[Salem's English CVVC](https://wastelandutau.neocities.org/en/overview)** documentation for additional info.<br>
 * Note that the [l]/[5] phonemes are aliased like Vocaloid SAMPA [l0]/[l] for easier use of the phonemizer and dictionary.<br>
 
 # About This Voicebank
